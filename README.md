@@ -1,6 +1,6 @@
 # Apero Times
 
-This site helps you to always know in which **city / country it is 18:00 in order to have your Apero !
+## This site helps you to always know in which city / country it is 18:00 in order to have your Apero !
 Used React and Moment.js
 
 Link: http://aperotimes.com/
